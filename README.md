@@ -1,12 +1,6 @@
-# Team 3 MIST 4610 Group Project 1
+# MIST 4610 - Data Management and Analyrics: Group Project 1
 
-## Team Name
-
-39217 Group 3	
 ## Team Members
-Include information about the name of the team based on the team name assigned to the team on
-ELC. Also include the names of all team members as well as links to their corresponding github
-repos that have the project on them.
 1. Daniel Zavala-palafox [@dzavalapalafox](https://github.com/dzavalapalafox)
 1. Angel Michallet [@angelmichallet](https://github.com/angelmichallet)
 2. Akhilesh Eloore [@akhileshe](https://github.com/akhileshe)
@@ -16,8 +10,7 @@ repos that have the project on them.
 6. Noah Martin [@noahhmartin03](https://github.com/noahhmartin03)
    
 ## Project Description
-
-This project involves the development of a relational database to streamline and manage the operations of a tennis facility based in Athens, Georgia. At the heart of the model is the Member entity, representing the diverse clientele we serve, from beginners to seasoned players. The club's facilities include various types of tennis courts (outdoor, indoor, clay), a pro shop, and an array of coaching options, all integral to our service offerings. These elements form key entities in our database, such as Court Bookings, Tournaments, Coaching Sessions, and Sales. Our aim is to accurately map the relationships between these entities, ensuring a comprehensive understanding of the club’s operations. Additionally, we're focused on creating realistic sample data to populate these entities, which will enable us to execute meaningful queries. These queries are intended to yield insights into member engagement, facility utilization, sales performance, and overall operational efficiency, guiding strategic decisions for the club's growth and success.
+This project involves the development of a relational database to streamline and manage the operations of a fabricated tennis facility client provided by ChatGPT. At the heart of the model is the Member entity, representing the diverse clientele we serve, from beginners to seasoned players. The club's facilities include various types of tennis courts (outdoor, indoor, clay), a pro shop, and an array of coaching options, all integral to our service offerings. These elements form key entities in our database, such as Court Bookings, Tournaments, Coaching Sessions, and Sales. Our aim is to accurately map the relationships between these entities, ensuring a comprehensive understanding of the club’s operations. Additionally, we're focused on creating realistic sample data to populate these entities, which will enable us to execute meaningful queries. These queries are intended to yield insights into member engagement, facility utilization, sales performance, and overall operational efficiency, guiding strategic decisions for the club's growth and success.
 
 ## Data Model
 Our tennis data model is intricately designed with the Member entity at its core, encapsulating the club's focus on its members and their engagement with various facilities and activities. This central role of the Member entity is underlined by several one-to-many relationships, as well as associative entities that connect Members to other critical aspects of the club's operations.
